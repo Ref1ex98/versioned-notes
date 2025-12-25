@@ -1,4 +1,5 @@
 Git is version control system
-Branches allow parallel work
+Branches allow you work simultanously
 Commits represent snapshots
-Git is important in DevOps
+Git is Distributed VCS
+
