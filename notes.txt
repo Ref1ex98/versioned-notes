@@ -1,0 +1,3 @@
+Git is version control system
+Branches allow parallel work
+Commits represent snapshots
