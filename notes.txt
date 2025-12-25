@@ -2,4 +2,5 @@ Git is version control system
 Branches allow you work simultanously
 Commits represent snapshots
 Git is Distributed VCS
+THIS LINE SHOULD NOT BE HERE
 
